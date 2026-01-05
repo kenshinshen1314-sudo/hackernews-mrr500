@@ -1,0 +1,5 @@
+{
+  "name": "HackerNewsMRR500",
+  "description": "A Hacker News project analyzer displaying projects with $500+ MRR in a clean, filtered UI.",
+  "requestFramePermissions": []
+}
